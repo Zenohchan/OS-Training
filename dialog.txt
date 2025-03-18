@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Julia:
 Guter Pilger, zu viel Ehrerbietung
 Zeigt deine Hand, die nur die Hand der Andacht
 Berührt, und so wird Hand durch Hand geheiligt.
+=======
+Romeo:
+Wenn ich entweiht mit meiner unwerten Hand
+Diese heilige Stätte, so gleicht dies
+Ein zärtlicher Kuss dem frommen Pilgergruß.
+>>>>>>> ea34d0193684ce133981076461ec3b6136af3e9c
